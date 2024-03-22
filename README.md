@@ -1,4 +1,11 @@
-# Computer History Media
+# Another Computer History Media List
+--
+
+This list was created as a compilation of replies from ([this tweet](https://twitter.com/endingwithali/status/1769133187047788938)). 
+
+It is available as a [Notion Template](https://endingwithali.notion.site/Computer-History-Media-b4c7d4b68fd4458e85ae68d3bcb80f37?pvs=74), with embeds, for a more interactive experience. 
+
+This list is maintained by ([Ali Diamond](https://links.ali.dev/)) - PR's are welcomed. 
 
 - Movies
     - [ ]  The Art Of Warez ([Vimeo Link](https://vimeo.com/341663153))
