@@ -1,11 +1,13 @@
 # Another Computer History Media List
---
 
-This list was created as a compilation of replies from ([this tweet](https://twitter.com/endingwithali/status/1769133187047788938)). 
+
+This list was created as a compilation of replies from [this tweet](https://twitter.com/endingwithali/status/1769133187047788938). 
 
 It is available as a [Notion Template](https://endingwithali.notion.site/Computer-History-Media-b4c7d4b68fd4458e85ae68d3bcb80f37?pvs=74), with embeds, for a more interactive experience. 
 
-This list is maintained by ([Ali Diamond](https://links.ali.dev/)) - PR's are welcomed. 
+This list is maintained by [Ali Diamond](https://links.ali.dev/)- PR's are welcomed. 
+
+----
 
 - Movies
     - [ ]  The Art Of Warez ([Vimeo Link](https://vimeo.com/341663153))
@@ -120,6 +122,7 @@ This list is maintained by ([Ali Diamond](https://links.ali.dev/)) - PR's are we
     - [ ]  *The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer* by Cliff Stoll ([Amazon Link](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787))
     - [ ]  *The Innovators* by Walter Isaacson ([Amazon Link](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703))
     - [ ]  *Coders At Work* by Peter Seibel ([Amazon Link](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483))
+ 
 - More Lists
     - [ ]  Awesome Computer History ([Link](https://github.com/watson/awesome-computer-history))
     - [ ]  Make Use Of List ([Link](https://www.makeuseof.com/tag/documentaries-about-birth-of-computers-and-internet/))
