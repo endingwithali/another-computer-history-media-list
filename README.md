@@ -60,7 +60,6 @@ This list is maintained by [Ali Diamond](https://links.ali.dev/)- PR's are welco
 
 
 - YouTube Videos
-    - [ ]  Compete and Total History of Hacking And Phreaking ([YouTube Link](https://www.youtube.com/watch?v=jnGbGpLE9s4&t=486s&ab_channel=Ray%5BREDACTED%5D))        
     - [ ]  DefCon: The Documentary ([YouTube Link](https://www.youtube.com/watch?v=3ctQOmjQyYg&ab_channel=TheDocumentaryNetwork))
     - [ ]  Project Code Rush ([YouTube Link](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y&ab_channel=TheDocumentaryNetwork))
     - [ ]  React.js: The Documentary ([YouTube Link](https://www.youtube.com/watch?v=8pDqJVdNa44&ab_channel=Honeypot))
@@ -102,6 +101,7 @@ This list is maintained by [Ali Diamond](https://links.ali.dev/)- PR's are welco
     - [ ]  The Cyber Arms Race ([YouTube Playlist Link](https://www.youtube.com/watch?v=tUotmeaZayE&ab_channel=AaltoUniversity))
     - [ ]  The Secret History of Silicon Valley ([YouTube Playlist Link](https://www.youtube.com/watch?v=ZTC_RxWN_xo&ab_channel=ComputerHistoryMuseum))
     - [ ]  DEF CON 31 War Stories ([YouTube Playlist Link](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBTZWTBe3x17Hz68UqRTDrL))
+    - [ ]  Compete and Total History of Hacking And Phreaking ([YouTube Link](https://www.youtube.com/watch?v=jnGbGpLE9s4&t=486s&ab_channel=Ray%5BREDACTED%5D))        
 
 - Other Video Media
     - [ ]  The 414s ([Link](https://www.imdb.com/title/tt4215352/)) ([Vimeo Link](https://vimeo.com/502242358))
